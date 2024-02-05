@@ -1,0 +1,20 @@
+body {
+    padding-top: 100px;
+    background-color: #ebebeb;
+}
+
+#alert-anchor {
+    padding-top: 50px;
+}
+
+.results-container {
+    padding-top: 50px;
+}
+
+.results > h1 {
+    padding-top: 20px;
+}
+
+.row {
+    padding: 10px;
+}
